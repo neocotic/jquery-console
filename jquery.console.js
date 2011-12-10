@@ -1,3 +1,9 @@
+// [jquery-console](http://neocotic.com/jquery-console) 1.0.0  
+// (c) 2011 Alasdair Mercer  
+// Freely distributable under the MIT license.  
+// For all details and documentation:  
+// <http://neocotic.com/jquery-console>
+
 (function ($, undefined) {
     var commands = {
         'cd': {
